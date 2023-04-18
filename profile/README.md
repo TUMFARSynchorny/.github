@@ -11,7 +11,10 @@ Our `experimental-hub` is video conferencing platform that can be used by resear
 ## `synchrony-score`
 Our `synchrony-score` is an initial attempt at quantifying interpersonal synchrony into a single quantifiable metric! We present a current initial synchrony score as a Late-Breaking-Work at CHI '23. You can read the paper [here]() or watch a short demo video about it:
 
-https://youtu.be/OuYljM0b1Ek
+
+
+[![Watch the video](https://drive.google.com/file/d/17aAf64BwhcOgMbILiF877U7d-E29VPNK/view?usp=sharing)](https://youtu.be/OuYljM0b1Ek)
+
 
 
 While an ambitious task, we envision this score to one day be used by UI and Social XR researchers in their evaluation of social online interfaces and interactions which is why we are working on integrating it as a future filter in our experimental hub.
