@@ -13,7 +13,7 @@ Our `synchrony-score` is an initial attempt at quantifying interpersonal synchro
 
 
 
-[![Watch the video](https://drive.google.com/file/d/17aAf64BwhcOgMbILiF877U7d-E29VPNK/view?usp=sharing)](https://youtu.be/OuYljM0b1Ek)
+[![Watch the video](https://img.youtube.com/vi/OuYljM0b1Ek/maxresdefault.jpg)](https://youtu.be/OuYljM0b1Ek)
 
 
 
