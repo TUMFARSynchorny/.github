@@ -1,6 +1,6 @@
 # Welcome
 
-We are building tools for online interpersonal synchrony experiments. Below we have a couple of project you might be interested in.
+We are building tools for online interpersonal synchrony research and remote experiments. Below we have a couple of project you might be interested in.
 
 - [`experimental-hub`](https://github.com/TUMFARSynchrony/experimental-hub#experimental-hub)
 - [`synchrony-score`](https://github.com/TUMFARSynchrony/synchrony-score/blob/main/README.md)
