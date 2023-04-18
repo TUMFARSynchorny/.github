@@ -14,3 +14,4 @@ While an ambitious task, we envision this score to one day be used by UI and Soc
 
 ## `Other project`
 rPPG - One of the projects we will be including are works by student who developed his own rPPG pipleing to be included in the experimental hub. 
+user study - Sharing anonymized collected user study OpenFace data from previous experiments. 
