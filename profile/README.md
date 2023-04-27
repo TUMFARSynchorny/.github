@@ -8,6 +8,8 @@ We are building tools for online interpersonal synchrony research and remote exp
 ## `experimental-hub`
 Our `experimental-hub` is video conferencing platform that can be used by researchers to host their own custom remote experiments. 
 
+![Quick Demo Exp Hub](https://raw.githubusercontent.com/wiki/TUMFARSynchrony/experimental-hub/images/exp-quick-demo-small.gif)
+
 ## `synchrony-score`
 Our `synchrony-score` is an initial attempt at quantifying interpersonal synchrony into a single quantifiable metric! We present a current initial synchrony score as a Late-Breaking-Work at CHI '23. You can read the paper [here](https://dl.acm.org/doi/10.1145/3544549.3585709) or watch a short demo video about it:
 
