@@ -1,12 +1,12 @@
 # Welcome
 
-We are building tools for online interpersonal synchrony research and remote experiments. Below we have a couple of project you might be interested in as well as our (poster paper we presented at UbiComp'23)[https://dl.acm.org/doi/abs/10.1145/3594739.3610686] [1].
+We are building tools for online interpersonal synchrony research and remote experiments. Below we have a couple of project you might be interested. 
 
 - [`experimental-hub`](https://github.com/TUMFARSynchrony/experimental-hub#experimental-hub)
 - [`synchrony-score`](https://github.com/TUMFARSynchrony/synchrony-score/blob/main/README.md)
 
 ## `experimental-hub`
-Our `experimental-hub` is video conferencing platform that can be used by researchers to host their own custom remote experiments. 
+Our `experimental-hub` is video conferencing platform that can be used by researchers to host their own custom remote experiments we presented at Ubicomp'23 in a [poster paper](https://dl.acm.org/doi/abs/10.1145/3594739.3610686)[1].
 
 ![Quick Demo Exp Hub](https://raw.githubusercontent.com/wiki/TUMFARSynchrony/experimental-hub/images/exp-quick-demo-small.gif)
 
