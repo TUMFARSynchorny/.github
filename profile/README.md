@@ -17,7 +17,7 @@ Our `synchrony-score` is an initial attempt at quantifying interpersonal synchro
 
 While an ambitious task, we envision this score to one day be used by UI and Social XR researchers in their evaluation of social online interfaces and interactions which is why we are working on integrating it as a future filter in our experimental hub.
 
-## `Other project`
+## `Other projects`
 rPPG - One of the projects we will be including is work by a student who developed his own rPPG pipeline to be included in the experimental hub. 
 
 [1] Chloe Eghtebas, Alexander Liebald, Maria Pospelova, Ashika Manjunath, Julian Geheeb, Norma Puspitasari, Jamie A Ward, Gudrun Klinker. "An Experimental Video Conference Platform to Bridge the Gap Between Digital and In-Person Communication." Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing. 2023.
